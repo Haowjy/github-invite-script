@@ -1,4 +1,5 @@
 #!/bin/bash
+# forked from: https://gist.github.com/jonico/d002e30391e8b53919409690704ecdb7
 
 function help {
   echo "Add collaborators to one or more repositories on github"
